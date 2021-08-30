@@ -14,3 +14,6 @@ print(sin(0))# in radin
 
 from math import* # * is all lib in math
 
+from function import fibunacci 
+print(fibunacci(2))
+
